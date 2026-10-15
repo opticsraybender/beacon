@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"product\":\"hippo\",\"issued_unix\":1792101678,\"expires_unix\":1807747200,\"grace_minutes\":30,\"headless_grace_minutes\":0,\"recheck_minutes\":240}",
-  "sig": "6e4228cd3278c23a102d8909e016b3aa35c743a118af3ead9f83681230c5cfd566fb4f4bf18e8bce5927ca68f4554501708baf5c85a62de00fa92358cd71760b"
+  "payload": "{\"v\":1,\"product\":\"hippo\",\"issued_unix\":1792102455,\"expires_unix\":1791936000,\"grace_minutes\":30,\"headless_grace_minutes\":0,\"recheck_minutes\":240}",
+  "sig": "b103ffc24bace94d002685d07889046bf14d17b6174696e8a469be90d0673496a5fe7480f14a55d9ce0b320a755f4d2278d1c24b83e4e69d1d99ec30546dd80f"
 }
